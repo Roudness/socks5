@@ -63,4 +63,4 @@ systemctl daemon-reload && systemctl restart gost-socks5
 - 请勿使用弱密码，仅限在自己的服务器上使用。
 
 - 声明
-仅供个人学习和自己的服务器使用，请遵守 Cloudflare 服务条款及当地法律法规。
+仅供个人学习和自己的服务器使用，请遵守 当地法律法规。
