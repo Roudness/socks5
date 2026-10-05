@@ -61,3 +61,6 @@ systemctl daemon-reload && systemctl restart gost-socks5
 - 需要 root 权限和 systemd。
 - 记得在防火墙 / 云服务商安全组放行对应 TCP 端口。
 - 请勿使用弱密码，仅限在自己的服务器上使用。
+
+- 声明
+仅供个人学习和自己的服务器使用，请遵守 Cloudflare 服务条款及当地法律法规。
